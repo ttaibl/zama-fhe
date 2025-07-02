@@ -1,7 +1,13 @@
 # Zama FHE Protocol Technical Guides
 I regularly update this repository with detailed guides on technical tasks related to the Zama protocol.
 
-Install Dependecies
+## Environment
+**Linux Ubuntu OS**
+* **VPS**: You can use a linux VPS to follow the guide
+* **Windows**: Install Linux Ubuntu using WSL by following this [guide](https://github.com/0xmoei/Install-Linux-on-Windows)
+* **Codespace**: If you don't have VPS or Windows WSL, you can use [Github Codespace](https://github.com/codespaces), create a blank template and run your codes.
+
+## Install Dependecies
 ```console
 # Packages:
 sudo apt update && sudo apt upgrade -y
