@@ -1,4 +1,5 @@
 # Zama FHE Protocol Technical Guides
+I regularly update this repository with detailed guides on technical tasks related to the Zama protocol.
 
 Install Dependecies
 ```console
