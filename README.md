@@ -1,6 +1,6 @@
 # Zama FHE Protocol Technical Guides 
 I regularly update this repository with detailed guides on technical tasks related to the Zama protocol.
-Update note 1
+Update note 2
 ## Environment
 **Linux Ubuntu OS**
 * **VPS**: You can use a linux VPS to follow the guide
